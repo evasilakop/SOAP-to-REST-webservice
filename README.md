@@ -1,8 +1,8 @@
 # Legacy Order Service
 
-A legacy-style Java 11 SOAP web service with a standalone client application, built as a portfolio project to demonstrate enterprise Java fundamentals, service design, and API evolution.
+A legacy-style Java 11 SOAP web service with a standalone client application, to demonstrate enterprise Java fundamentals, service design, and API evolution.
 
-This project is intentionally structured as a "before" state for a future migration to modern Java 21 + Spring Boot.
+This project is intentionally structured with a "before" state, for a future migration to modern Java 21 + Spring Boot.
 
 ## Project Structure
 
